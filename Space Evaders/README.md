@@ -49,7 +49,7 @@ Este projeto foi desenvolvido para demonstrar a aplicação prática de bibliote
     * Localize a classe principal **My2DGame.java**.
     * Execute como *Java Application*.
 
-## 🚀 Como Executar na IDE
+## 🚀 Como Executar no terminal
 
 1.  **Clone o repositório:**
     ```bash
